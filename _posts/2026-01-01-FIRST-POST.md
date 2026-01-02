@@ -3,6 +3,7 @@ layout: post
 title: "First post"
 date: 2026-01-01 17:54:01 -0800
 categories: hello-world
+permalink: /2026/01/01/FIRST-POST.html
 ---
 
 This is my first post attempting to use Jekyll and publishing using Github's free hosting service. 
